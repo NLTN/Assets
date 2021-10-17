@@ -28,7 +28,7 @@
       "passwordField": "password"
     },
     "oauth": {
-      "redirect": "YOUR_EXPO_LINK , for example exp://127.0.0.1:19000/",
+      "redirect": "YOUR_EXPO_URL",
       "google": {
         "key": "<google oauth key>",
         "secret": "<google oauth secret>",
