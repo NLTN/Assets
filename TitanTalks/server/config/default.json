@@ -1,5 +1,5 @@
 {
-  "host": "YOUR_SERVER_IP_ADDRESS / DOMAIN",
+  "host": "YOUR_SERVER_IP",
   "port": 3030,
   "public": "../public/",
   "paginate": {
