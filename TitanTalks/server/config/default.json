@@ -1,5 +1,5 @@
 {
-  "host": "YOUR_SERVER_IP_ADDRESS / DOMAIN",
+  "host": "YOUR_SERVER_IP",
   "port": 3030,
   "public": "../public/",
   "paginate": {
@@ -28,7 +28,7 @@
       "passwordField": "password"
     },
     "oauth": {
-      "redirect": "YOUR_EXPO_LINK , for example exp://127.0.0.1:19000/",
+      "redirect": "YOUR_EXPO_URL",
       "google": {
         "key": "<google oauth key>",
         "secret": "<google oauth secret>",
